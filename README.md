@@ -43,16 +43,23 @@ My, [6/20/2026 6:44 PM]
 
 ![SMPS Board](images/smps-board.jpg)
 
-My, [6/20/2026 6:47 PM]
+
 ① Fuse
-② Bridge Rectifier
-③ Filter Capacitors
-④ PWM IC
-⑤ Transformer
-⑥ Optocoupler
-⑦ Output Capacitors
-⑧ EMI Filter
-⑨ Output Terminal
+
+② EMI Filter
+
+③ Bridge Rectifier
+
+④ Filter Capacitors
+
+⑤ PWM IC
+
+⑥ Transformer
+
+⑦ Optocoupler
+
+⑧ Output Capacitors
+
 ## Typical Applications
 
 | Device | Uses SMPS |
