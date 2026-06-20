@@ -39,7 +39,7 @@ Today, SMPS technology is found in almost every modern electronic device.
 ![SMPS Board](smps-board.jpg)
 
 
-① Fuse
+① Fuse                        Protects the power supply from excessive current and short circuits.
 
 ② EMI Filter
 
