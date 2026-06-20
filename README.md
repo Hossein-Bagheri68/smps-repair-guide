@@ -38,11 +38,6 @@ Today, SMPS technology is found in almost every modern electronic device.
 
 ![SMPS Board](smps-board.jpg)
 
-My, [6/20/2026 6:44 PM]
-## Example SMPS Board
-
-![SMPS Board](images/smps-board.jpg)
-
 
 ① Fuse
 
@@ -56,9 +51,9 @@ My, [6/20/2026 6:44 PM]
 
 ⑥ Transformer
 
-⑦ Optocoupler
+⑦ Output Capacitors
 
-⑧ Output Capacitors
+⑧ Optocoupler
 
 ## Typical Applications
 
