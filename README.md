@@ -36,7 +36,7 @@ Because switching occurs at frequencies much higher than the mains frequency, tr
 Today, SMPS technology is found in almost every modern electronic device.
 ## Example SMPS Board
 
-![SMPS Board](images/smps-board.jpg)
+![SMPS Board](smps-board.jpg)
 
 ## Typical Applications
 
