@@ -34,6 +34,9 @@ A Switch Mode Power Supply (SMPS) is an electronic power converter that transfer
 Because switching occurs at frequencies much higher than the mains frequency, transformers and filtering components can be significantly smaller than those used in linear power supplies.
 
 Today, SMPS technology is found in almost every modern electronic device.
+## Example SMPS Board
+
+![SMPS Board](images/smps-board.jpg)
 
 ## Typical Applications
 
