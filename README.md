@@ -39,21 +39,21 @@ Today, SMPS technology is found in almost every modern electronic device.
 ![SMPS Board](smps-board.jpg)
 
 
-① Fuse                        Protects the power supply from excessive current and short circuits.
+① Fuse : Protects the power supply from excessive current and short circuits.
 
-② EMI Filter
+② EMI Filter : Reduces electromagnetic interference and input noise.
 
-③ Bridge Rectifier
+③ Bridge Rectifier : Converts AC input voltage into DC voltage. 
 
-④ Filter Capacitors
+④ Filter Capacitors : Smooths the rectified DC voltage before switching.
 
-⑤ PWM IC
+⑤ PWM IC : Controls the switching frequency and duty cycle.
 
-⑥ Transformer
+⑥ Transformer : Provides isolation and transfers power to the secondary side.
 
-⑦ Output Capacitors
+⑦ Output Capacitors : Reduce ripple and stabilize the DC output voltage.
 
-⑧ Optocoupler
+⑧ Optocoupler : Transfers feedback information while maintaining electrical isolation. 
 
 ## Typical Applications
 
