@@ -62,3 +62,38 @@ Most SMPS circuits contain the following sections:
 - Feedback Circuit
 - Output Rectifier
 - Output Filter Capacitors
+
+## Common SMPS Failures
+
+The following faults are among the most common problems encountered in switch mode power supplies.
+
+| Fault | Possible Cause |
+|-------|----------------|
+| No Output Voltage | Blown fuse, bridge rectifier failure, startup resistor |
+| Fuse Blows Immediately | Shorted MOSFET or bridge rectifier |
+| Low Output Voltage | Dried electrolytic capacitors |
+| Intermittent Operation | Poor solder joints or bad capacitors |
+| Clicking Sound | Overload or startup failure |
+| Output Ripple | High ESR output capacitors |
+| Power Cycling | Feedback circuit instability |
+
+## Required Repair Tools
+
+Professional SMPS repair normally requires the following tools:
+
+- Digital Multimeter
+- ESR Meter
+- Oscilloscope
+- Isolation Transformer
+- Soldering Station
+- Hot Air Rework Station
+- DC Power Supply
+- Magnifying Lamp
+
+- ## Safety Precautions
+
+⚠️ High-voltage capacitors inside SMPS circuits may remain charged even after disconnecting the AC power source.
+
+Always discharge capacitors safely before troubleshooting.
+
+Never perform live measurements unless you fully understand the associated electrical hazards.
