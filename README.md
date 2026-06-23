@@ -117,3 +117,8 @@ Professional SMPS repair normally requires the following tools:
 Always discharge capacitors safely before troubleshooting.
 
 Never perform live measurements unless you fully understand the associated electrical hazards.
+## Training Resource
+
+For technicians who want to learn practical SMPS troubleshooting and repair techniques, a complete training course is available:
+
+https://emahak.com/product/board-repair-training-courses/smps-troubleshoot-repair-training/
